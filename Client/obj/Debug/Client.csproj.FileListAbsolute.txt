@@ -8,3 +8,4 @@ C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\C
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.exe
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.pdb
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.MultiPlayForm.resources
