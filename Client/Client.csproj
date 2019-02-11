@@ -44,6 +44,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MakeRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MakeRoom.Designer.cs">
+      <DependentUpon>MakeRoom.cs</DependentUpon>
+    </Compile>
     <Compile Include="MenuForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,6 +70,9 @@
     <Compile Include="SinglePlayForm.Designer.cs">
       <DependentUpon>SinglePlayForm.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="MakeRoom.resx">
+      <DependentUpon>MakeRoom.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MenuForm.resx">
       <DependentUpon>MenuForm.cs</DependentUpon>
     </EmbeddedResource>

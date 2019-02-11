@@ -38,7 +38,7 @@ namespace Client
         private void button1_Click(object sender, EventArgs e)
         {
             Hide();
-            MultiPlayForm multiPlayForm = new MultiPlayForm();
+            MakeRoom multiPlayForm = new MakeRoom();
             multiPlayForm.FormClosed += new FormClosedEventHandler(childForm_Closed);
             multiPlayForm.Show();
         }

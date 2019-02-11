@@ -1,11 +1,11 @@
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\bin\Debug\Client.exe.config
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\bin\Debug\Client.exe
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\bin\Debug\Client.pdb
+C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.MakeRoom.resources
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.MenuForm.resources
+C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.MultiPlayForm.resources
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.Properties.Resources.resources
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.board_bk.resources
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.csproj.GenerateResource.Cache
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.exe
 C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.pdb
-C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
-C:\Users\seoyechan\Documents\Visual Studio 2013\Projects\5mok\Client\obj\Debug\Client.MultiPlayForm.resources
